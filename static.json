@@ -1,7 +1,8 @@
 {
   "headers":{
     "/*":{
-      "X-Author":"stepandanilov" 
+      "X-Author":"stepandanilov",
+      "Access-Control-Allow-Origin":"*"
     }
   }
 }
